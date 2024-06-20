@@ -1,1 +1,3 @@
 # Medical-Costs-Analysis
+
+The goal of this project was to determine how different variables relating to a persons health/lifestyle affect the amount of medical costs/health insurances charges they experience. The data used was synthetic and for the use of learning data analysis. The dataset comes from the book 'Machine Learning with R' by Brett Lantz. Each row in the data represents an individual and records they're age, BMI, gender, whether they are a smoker or not, how many children they have, which region of the United States they are located, and how much they pay in medical costs/health insurance charges. This analysis primarily used the age, BMI, and smoker column to determine what affect these variables had on charges. 
